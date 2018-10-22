@@ -1,0 +1,11 @@
+#rouge {
+    height:100px;
+    width:100px;
+    background-color:red;
+    margin:auto;
+    margin-top:20%;
+}
+.bouton {
+    text-align:center;
+    padding-top:10%;
+}
